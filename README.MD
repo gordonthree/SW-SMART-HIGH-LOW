@@ -7,4 +7,4 @@
 * Three position screw terminal block for CAN bus connection
 * Heavy duty terminal block connectors for power in/out
 
-<IMG src="https://github.com/gordonthree/SW-HBRIDGE-20A/blob/main/SW-HBRIDGE-20A.png?raw=true" width=480>
+<IMG src="https://github.com/gordonthree/SW-SMART-HIGH-LOW/blob/main/SW-SMART-HIGH-LOW.png?raw=true" width=480>
