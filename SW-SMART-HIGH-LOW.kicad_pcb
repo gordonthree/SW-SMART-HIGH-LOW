@@ -458,7 +458,7 @@
 		(descr "VP0265840000G-1")
 		(tags "Connector")
 		(property "Reference" "POWER_IN1"
-			(at 5.38 -2.61 270)
+			(at 5.38 -2.61 90)
 			(layer "F.SilkS")
 			(uuid "429109c2-0b20-4f52-bd81-059704ca49ff")
 			(effects
@@ -469,7 +469,7 @@
 			)
 		)
 		(property "Value" "PWRIN"
-			(at 5.38 -2.61 270)
+			(at 5.38 -2.61 90)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "d7214d2b-6f8b-45b6-bc9b-07fe8942ce85")
@@ -481,7 +481,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "25bfd20b-5444-4f15-8ff9-2e57404eb8be")
@@ -493,7 +493,7 @@
 			)
 		)
 		(property "Description" "PCB TERMINAL BLOCKS RISING CLAMP"
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "9f1ad515-111d-43f0-b185-8505d50fcc46")
@@ -694,7 +694,7 @@
 			(uuid "3b9c59e1-9cb8-412a-a439-df20a0439cab")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 5.38 -2.61 270)
+			(at 5.38 -2.61 90)
 			(layer "F.Fab")
 			(uuid "d48a224b-a508-4710-b723-245db5f9a12c")
 			(effects
@@ -4505,7 +4505,7 @@
 		(descr "VP0365840000G-2")
 		(tags "Connector")
 		(property "Reference" "POWER_OUT1"
-			(at 10.46 -2.61 270)
+			(at 10.46 -2.61 90)
 			(layer "F.SilkS")
 			(uuid "f209133f-e52f-4bc6-abb9-5e347e188946")
 			(effects
@@ -4516,7 +4516,7 @@
 			)
 		)
 		(property "Value" "VP0365840000G"
-			(at 10.46 -2.61 270)
+			(at 10.46 -2.61 90)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "3b7d90c8-2aa1-42bf-a806-56cda74a1db2")
@@ -4528,7 +4528,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.mouser.ca/ProductDetail/Amphenol-Anytek/VP0365840000G?qs=Mv7BduZupUgzoCVpYg1nQw%3D%3D"
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "59d695af-84ac-4c82-a470-305147cb50c2")
@@ -4540,7 +4540,7 @@
 			)
 		)
 		(property "Description" "3 Position Wire to Board Terminal Block Horizontal with Board 0.400\" (10.16mm) Through Hole"
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "66b001f5-35da-4923-ad2f-aba6f4134b91")
@@ -4783,7 +4783,7 @@
 			(uuid "5b6c554a-3504-415c-ad90-5aaa20652f97")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 10.46 -2.61 270)
+			(at 10.46 -2.61 90)
 			(layer "F.Fab")
 			(uuid "9175840f-d87c-4c89-bbf9-f5d136475ba8")
 			(effects
