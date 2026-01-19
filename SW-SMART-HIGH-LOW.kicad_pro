@@ -192,6 +192,7 @@
         0.254,
         0.305,
         0.406,
+        0.508,
         0.61,
         0.8128,
         1.25,
@@ -484,7 +485,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "SW-SINGLE-40A.kicad_pro",
+    "filename": "SW-SMART-HIGH-LOW.kicad_pro",
     "version": 3
   },
   "net_settings": {
