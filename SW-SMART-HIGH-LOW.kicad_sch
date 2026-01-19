@@ -7211,7 +7211,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "229542a0-d1a7-4871-bad1-0fdf84a67b56")
-		(property "Reference" "R1"
+		(property "Reference" "RSTBY1"
 			(at 113.538 83.312 0)
 			(effects
 				(font
@@ -7263,7 +7263,7 @@
 		(instances
 			(project "SW-SMART-HIGH-LOW"
 				(path "/08d9f551-d314-4c5c-859f-da02a807087d"
-					(reference "R1")
+					(reference "RSTBY1")
 					(unit 1)
 				)
 			)
